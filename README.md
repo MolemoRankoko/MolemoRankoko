@@ -54,8 +54,8 @@ I enjoy working on projects that involve **data, automation, and building scalab
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MolemoRankoko\&show_icons=true\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MolemoRankoko\&layout=compact\&theme=tokyonight)
 
 ## ⚡ Motivation
 <p align="center">
