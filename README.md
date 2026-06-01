@@ -8,7 +8,8 @@
 ---
 
 <h2 align="center"> 💡 About Me </h2>  
-I'm a passionate BSc Maths & Compuer Science student focused on building strong foundations in **data engineering, backend development, and database systems**.
+I'm a passionate BSc Maths & Compuer Science student focused on building strong foundations in <b>data engineering, backend development and database systems</b>.
+
 I enjoy working on projects that involve **data, automation, and building scalable systems**. My goal is to become a skilled Data Engineer who can design efficient data pipelines and work with large-scale data systems.
 
 ---
